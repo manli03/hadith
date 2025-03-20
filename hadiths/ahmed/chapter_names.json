@@ -1,0 +1,59 @@
+{
+  "id": 8,
+  "metadata": {
+    "id": 8,
+    "length": 1374,
+    "arabic": {
+      "title": "مسند الإمام أحمد بن حنبل",
+      "author": "الإمام أحمد بن حنبل",
+      "introduction": ""
+    },
+    "english": {
+      "title": "Musnad Ahmad ibn Hanbal",
+      "author": "Imam Ahmad ibn Hanbal",
+      "introduction": ""
+    }
+  },
+  "chapters": [
+    {
+      "id": 1,
+      "english": "Musnad Abu Bakr as-Siddiq (ra)",
+      "malay": "Musnad Abu Bakar as-Siddiq (ra)"
+    },
+    {
+      "id": 2,
+      "english": "Musnad `Umar b. al-Khattab (ra)",
+      "malay": "Musnad 'Umar bin al-Khattab (ra)"
+    },
+    {
+      "id": 3,
+      "english": "The Hadeeth of Saqeefah",
+      "malay": "Hadis Saqifah"
+    },
+    {
+      "id": 4,
+      "english": "Musnad Uthman ibn Affan",
+      "malay": "Musnad Uthman bin Affan"
+    },
+    {
+      "id": 5,
+      "english": "Musnad 'Ali Ibn Abi Talib",
+      "malay": "Musnad Ali Ibn Abi Talib"
+    },
+    {
+      "id": 6,
+      "english": "Musnad of Abu Muhammad Talhah bin 'Ubaidullah",
+      "malay": "Musnad Abu Muhammad Talhah bin 'Ubaidullah"
+    },
+    {
+      "id": 7,
+      "english": "The Musnad of az-Zubair bin al-'Awwam",
+      "malay": "Musnad az-Zubair bin al-'Awwam"
+    },
+    {
+      "id": 31,
+      "english": "The Hadith of Abu Rimtha about the Prophet (ra)",
+      "malay": "Hadis Abu Rimtha mengenai Nabi (ra)"
+    }
+  ]
+}

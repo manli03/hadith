@@ -1,0 +1,209 @@
+{
+  "id": 6,
+  "metadata": {
+    "id": 6,
+    "length": 4345,
+    "arabic": {
+      "title": "سنن ابن ماجه",
+      "author": "الإمام محمد بن يزيد بن ماجه القزويني",
+      "introduction": ""
+    },
+    "english": {
+      "title": "Sunan Ibn Majah",
+      "author": "Imam Muhammad ibn Yazid Ibn Majah al-Qazwini",
+      "introduction": ""
+    }
+  },
+  "chapters": [
+    {
+      "id": 1,
+      "english": "The Book of Purification and its Sunnah",
+      "malay": "Kitab At-Taharah dan Sunnahnya"
+    },
+    {
+      "id": 2,
+      "english": "The Book of the Prayer",
+      "malay": "Kitab Solat"
+    },
+    {
+      "id": 3,
+      "english": "The Book of the Adhan and the Sunnah Regarding It",
+      "malay": "Kitab tentang Azan dan Sunnah Mengenainya"
+    },
+    {
+      "id": 4,
+      "english": "The Book On The Mosques And The Congregations",
+      "malay": "Kitab Tentang Masjid-masjid dan Jemaah"
+    },
+    {
+      "id": 5,
+      "english": "Establishing the Prayer and the Sunnah Regarding Them",
+      "malay": "Mendirikan Solat dan Sunnah Mengenai nya"
+    },
+    {
+      "id": 6,
+      "english": "Chapters Regarding Funerals",
+      "malay": "Bab-bab Mengenai Jenazah"
+    },
+    {
+      "id": 7,
+      "english": "Fasting",
+      "malay": "Puasa"
+    },
+    {
+      "id": 8,
+      "english": "The Chapters Regarding Zakat",
+      "malay": "Bab-bab Tentang Zakat"
+    },
+    {
+      "id": 9,
+      "english": "The Chapters on Marriage",
+      "malay": "Bab-bab Tentang Perkahwinan"
+    },
+    {
+      "id": 10,
+      "english": "The Chapters on Divorce",
+      "malay": "Bab Talak"
+    },
+    {
+      "id": 11,
+      "english": "The Chapters on Expiation",
+      "malay": "Bab-bab mengenai Kifarat"
+    },
+    {
+      "id": 12,
+      "english": "The Chapters on Business Transactions",
+      "malay": "Bab tentang Urus niaga"
+    },
+    {
+      "id": 13,
+      "english": "The Chapters on Rulings",
+      "malay": "Bab-bab Hukum-hukum"
+    },
+    {
+      "id": 14,
+      "english": "The Chapters on Gifts",
+      "malay": "Bab-bab Pemberian"
+    },
+    {
+      "id": 15,
+      "english": "The Chapters on Charity",
+      "malay": "Bab-bab mengenai Sedekah"
+    },
+    {
+      "id": 16,
+      "english": "The Chapters on Pawning",
+      "malay": "Bab-bab tentang Rahn"
+    },
+    {
+      "id": 17,
+      "english": "The Chapters on Pre-emption",
+      "malay": "Bab-bab tentang Hak Syuf'ah"
+    },
+    {
+      "id": 18,
+      "english": "The Chapters on Lost Property",
+      "malay": "Bab-bab tentang Harta yang Hilang"
+    },
+    {
+      "id": 19,
+      "english": "The Chapters on Manumission (of Slaves)",
+      "malay": "Bab-bab tentang Pembebasan (Hamba)"
+    },
+    {
+      "id": 20,
+      "english": "The Chapters on Legal Punishments",
+      "malay": "Bab-bab Hukuman Jinayah"
+    },
+    {
+      "id": 21,
+      "english": "The Chapters on Blood Money",
+      "malay": "Bab-bab tentang Diyat"
+    },
+    {
+      "id": 22,
+      "english": "The Chapters on Wills",
+      "malay": "Bab-bab Wasiat"
+    },
+    {
+      "id": 23,
+      "english": "Chapters on Shares of Inheritance",
+      "malay": "Bab-bab Pembahagian Faraid"
+    },
+    {
+      "id": 24,
+      "english": "The Chapters on Jihad",
+      "malay": "Bab-bab tentang Jihad"
+    },
+    {
+      "id": 25,
+      "english": "Chapters on Hajj Rituals",
+      "malay": "Bab-bab tentang Manasik Haji"
+    },
+    {
+      "id": 26,
+      "english": "Chapters on Sacrifices",
+      "malay": "Bab-bab mengenai Qurban"
+    },
+    {
+      "id": 27,
+      "english": "Chapters on Slaughtering",
+      "malay": "Bab-bab Sembelihan"
+    },
+    {
+      "id": 28,
+      "english": "Chapters on Hunting",
+      "malay": "Bab mengenai Memburu"
+    },
+    {
+      "id": 29,
+      "english": "Chapters on Food",
+      "malay": "Bab-bab tentang Makanan"
+    },
+    {
+      "id": 30,
+      "english": "Chapters on Drinks",
+      "malay": "Bab-bab Minuman"
+    },
+    {
+      "id": 31,
+      "english": "Chapters on Medicine",
+      "malay": "Bab-bab tentang Perubatan"
+    },
+    {
+      "id": 32,
+      "english": "Chapters on Dress",
+      "malay": "Bab-bab mengenai Pakaian"
+    },
+    {
+      "id": 33,
+      "english": "Etiquette",
+      "malay": "Adab"
+    },
+    {
+      "id": 34,
+      "english": "Supplication",
+      "malay": "Doa"
+    },
+    {
+      "id": 35,
+      "english": "Interpretation of Dreams",
+      "malay": "Tafsir Mimpi"
+    },
+    {
+      "id": 36,
+      "english": "Tribulations",
+      "malay": "Ujian"
+    },
+    {
+      "id": 37,
+      "english": "Zuhd",
+      "malay": "Zuhud"
+    },
+    {
+      "id": 0,
+      "english": "The Book of the Sunnah",
+      "malay": "Kitab as-Sunnah"
+    }
+  ]
+}

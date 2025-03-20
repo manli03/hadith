@@ -1,0 +1,324 @@
+{
+  "id": 7,
+  "metadata": {
+    "id": 7,
+    "length": 1985,
+    "arabic": {
+      "title": "موطأ مالك",
+      "author": "الإمام مالك بن أنس",
+      "introduction": ""
+    },
+    "english": {
+      "title": "Muwatta Malik",
+      "author": "Imam Malik ibn Anas",
+      "introduction": ""
+    }
+  },
+  "chapters": [
+    {
+      "id": 1,
+      "english": "The Times of Prayer",
+      "malay": "Waktu-Waktu Solat"
+    },
+    {
+      "id": 2,
+      "english": "Purity",
+      "malay": "Kebersihan"
+    },
+    {
+      "id": 3,
+      "english": "Prayer",
+      "malay": "Solat"
+    },
+    {
+      "id": 4,
+      "english": "Forgetfulness in Prayer",
+      "malay": "Kelupaan dalam Solat"
+    },
+    {
+      "id": 5,
+      "english": "Jumu'a",
+      "malay": "Jumu'ah"
+    },
+    {
+      "id": 6,
+      "english": "Prayer in Ramadan",
+      "malay": "Solat di Bulan Ramadan"
+    },
+    {
+      "id": 7,
+      "english": "Tahajjud",
+      "malay": "Tahajjud"
+    },
+    {
+      "id": 8,
+      "english": "Prayer in Congregation",
+      "malay": "Solat Berjemaah"
+    },
+    {
+      "id": 9,
+      "english": "Shortening the Prayer",
+      "malay": "Memendekkan Solat"
+    },
+    {
+      "id": 10,
+      "english": "The Two 'Ids",
+      "malay": "Dua 'Id"
+    },
+    {
+      "id": 11,
+      "english": "The Fear Prayer",
+      "malay": "Solat Khauf"
+    },
+    {
+      "id": 12,
+      "english": "The Eclipse Prayer",
+      "malay": "Solat Gerhana"
+    },
+    {
+      "id": 13,
+      "english": "Asking for Rain",
+      "malay": "Memohon Hujan"
+    },
+    {
+      "id": 14,
+      "english": "The Qibla",
+      "malay": "Arah Kiblat"
+    },
+    {
+      "id": 15,
+      "english": "The Qur'an",
+      "malay": "Al-Quran"
+    },
+    {
+      "id": 16,
+      "english": "Burials",
+      "malay": "Pengebumian"
+    },
+    {
+      "id": 17,
+      "english": "Zakat",
+      "malay": "Zakat"
+    },
+    {
+      "id": 18,
+      "english": "Fasting",
+      "malay": "Puasa"
+    },
+    {
+      "id": 19,
+      "english": "I'tikaf in Ramadan",
+      "malay": "I'tikaf di Bulan Ramadan"
+    },
+    {
+      "id": 20,
+      "english": "Hajj",
+      "malay": "Haji"
+    },
+    {
+      "id": 21,
+      "english": "Jihad",
+      "malay": "Jihad"
+    },
+    {
+      "id": 22,
+      "english": "Vows and Oaths",
+      "malay": "Nazar dan Sumpah"
+    },
+    {
+      "id": 23,
+      "english": "Sacrificial Animals",
+      "malay": "Haiwan Korban"
+    },
+    {
+      "id": 24,
+      "english": "Slaughtering Animals",
+      "malay": "Menyembelih Haiwan"
+    },
+    {
+      "id": 25,
+      "english": "Game",
+      "malay": "Permainan"
+    },
+    {
+      "id": 26,
+      "english": "The 'Aqiqa",
+      "malay": "Akikah"
+    },
+    {
+      "id": 27,
+      "english": "Fara'id",
+      "malay": "Fara'id"
+    },
+    {
+      "id": 28,
+      "english": "Marriage",
+      "malay": "Perkahwinan"
+    },
+    {
+      "id": 29,
+      "english": "Divorce",
+      "malay": "Perceraian"
+    },
+    {
+      "id": 30,
+      "english": "Suckling",
+      "malay": "Menyusukan"
+    },
+    {
+      "id": 31,
+      "english": "Business Transactions",
+      "malay": "Urus Niaga Perniagaan"
+    },
+    {
+      "id": 32,
+      "english": "Qirad",
+      "malay": "Qirad"
+    },
+    {
+      "id": 33,
+      "english": "Sharecropping",
+      "malay": "Syarikat Pertanian"
+    },
+    {
+      "id": 34,
+      "english": "Renting Land",
+      "malay": "Menyewa Tanah"
+    },
+    {
+      "id": 35,
+      "english": "Pre-emption in Property",
+      "malay": "Penebusan Hak Keutamaan dalam Harta"
+    },
+    {
+      "id": 36,
+      "english": "Judgements",
+      "malay": "Penghakiman"
+    },
+    {
+      "id": 37,
+      "english": "Wills and Testaments",
+      "malay": "Wasiat dan Testament"
+    },
+    {
+      "id": 38,
+      "english": "Setting Free and Wala'",
+      "malay": "Pembebasan Hamba dan Wala'"
+    },
+    {
+      "id": 39,
+      "english": "The Mukatab",
+      "malay": "Al-Mukatab"
+    },
+    {
+      "id": 40,
+      "english": "The Mudabbar",
+      "malay": "Al-Mudabbar (المدبر)"
+    },
+    {
+      "id": 41,
+      "english": "Hudud",
+      "malay": "Hudur"
+    },
+    {
+      "id": 42,
+      "english": "Drinks",
+      "malay": "Minuman"
+    },
+    {
+      "id": 43,
+      "english": "Blood-Money",
+      "malay": "Diat"
+    },
+    {
+      "id": 44,
+      "english": "The Oath of Qasama",
+      "malay": "Sumpah Qasama"
+    },
+    {
+      "id": 45,
+      "english": "Madina",
+      "malay": "Madinah"
+    },
+    {
+      "id": 46,
+      "english": "The Decree",
+      "malay": "Al-Qadar"
+    },
+    {
+      "id": 47,
+      "english": "Good Character",
+      "malay": "Akhlak yang Baik"
+    },
+    {
+      "id": 48,
+      "english": "Dress",
+      "malay": "Pakaian"
+    },
+    {
+      "id": 49,
+      "english": "The Description of the Prophet, may Allah Bless Him and Grant Him Peace",
+      "malay": "Perihal Sifat Nabi, semoga Allah merahmatinya dan mengurniakan kesejahteraan ke atasnya"
+    },
+    {
+      "id": 50,
+      "english": "The Evil Eye",
+      "malay": "Mata Jahat"
+    },
+    {
+      "id": 51,
+      "english": "Hair",
+      "malay": "Rambut"
+    },
+    {
+      "id": 52,
+      "english": "Visions",
+      "malay": "Penglihatan"
+    },
+    {
+      "id": 53,
+      "english": "Greetings",
+      "malay": "Salam"
+    },
+    {
+      "id": 54,
+      "english": "General Subjects",
+      "malay": "Perkara Umum"
+    },
+    {
+      "id": 55,
+      "english": "The Oath of Allegiance",
+      "malay": "Ikrar Taat Setia"
+    },
+    {
+      "id": 56,
+      "english": "Speech",
+      "malay": "Ucapan"
+    },
+    {
+      "id": 57,
+      "english": "Jahannam",
+      "malay": "Jahannam"
+    },
+    {
+      "id": 58,
+      "english": "Sadaqa",
+      "malay": "Sedekah"
+    },
+    {
+      "id": 59,
+      "english": "Knowledge",
+      "malay": "Ilmu"
+    },
+    {
+      "id": 60,
+      "english": "The Supplication of the Unjustly Wronged",
+      "malay": "Doa Orang yang Dizalimi"
+    },
+    {
+      "id": 61,
+      "english": "The Names of the Prophet, may Allah Bless Him and Grant Him Peace",
+      "malay": "Nama-Nama Nabi, semoga Allah memberkatinya dan memberinya kesejahteraan"
+    }
+  ]
+}

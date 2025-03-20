@@ -1,0 +1,264 @@
+{
+  "id": 5,
+  "metadata": {
+    "id": 5,
+    "length": 4053,
+    "arabic": {
+      "title": "جامع الترمذي",
+      "author": "الإمام أبو عيسى محمد بن عيسى الترمذي",
+      "introduction": ""
+    },
+    "english": {
+      "title": "Jami' al-Tirmidhi",
+      "author": "Imam Abu Isa Muhammad ibn Isa al-Tirmidhi",
+      "introduction": ""
+    }
+  },
+  "chapters": [
+    {
+      "id": 1,
+      "english": "The Book on Purification",
+      "malay": "Kitab Tentang Bersuci"
+    },
+    {
+      "id": 2,
+      "english": "The Book on Salat (Prayer)",
+      "malay": "Kitab tentang Solat"
+    },
+    {
+      "id": 3,
+      "english": "The Book on Al-Witr",
+      "malay": "Kitab tentang Solat Witir"
+    },
+    {
+      "id": 4,
+      "english": "The Book on the Day of Friday",
+      "malay": "Kitab Tentang Hari Jumaat"
+    },
+    {
+      "id": 5,
+      "english": "The Book on the Two Eids",
+      "malay": "Kitab tentang Dua Hari Raya"
+    },
+    {
+      "id": 6,
+      "english": "The Book on Traveling",
+      "malay": "Kitab Perihal Musafir"
+    },
+    {
+      "id": 7,
+      "english": "The Book on Zakat",
+      "malay": "Kitab Zakat"
+    },
+    {
+      "id": 8,
+      "english": "The Book on Fasting",
+      "malay": "Kitab Puasa"
+    },
+    {
+      "id": 9,
+      "english": "The Book on Hajj",
+      "malay": "Kitab Haji"
+    },
+    {
+      "id": 10,
+      "english": "The Book on Jana''iz (Funerals)",
+      "malay": "Kitab Jana'iz (Jenazah)"
+    },
+    {
+      "id": 11,
+      "english": "The Book on Marriage",
+      "malay": "Kitab Tentang Pernikahan"
+    },
+    {
+      "id": 12,
+      "english": "The Book on Suckling",
+      "malay": "Kitab Mengenai Penyusuan"
+    },
+    {
+      "id": 13,
+      "english": "The Book on Divorce and Li'an",
+      "malay": "Kitab Mengenai Talak dan Li'an"
+    },
+    {
+      "id": 14,
+      "english": "The Book on Business",
+      "malay": "Kitab Jual Beli"
+    },
+    {
+      "id": 15,
+      "english": "The Chapters On Judgements From The Messenger of Allah",
+      "malay": "Bab-Bab Mengenai Keputusan Daripada Rasulullah"
+    },
+    {
+      "id": 16,
+      "english": "The Book on Blood Money",
+      "malay": "Kitab tentang Diyat"
+    },
+    {
+      "id": 17,
+      "english": "The Book on Legal Punishments (Al-Hudud)",
+      "malay": "Kitab Mengenai Hukuman-hukuman Syariah (Al-Hudud)"
+    },
+    {
+      "id": 18,
+      "english": "The Book on Hunting",
+      "malay": "Kitab Tentang Perburuan"
+    },
+    {
+      "id": 19,
+      "english": "The Book on Sacrifices",
+      "malay": "Kitab tentang Korban"
+    },
+    {
+      "id": 20,
+      "english": "The Book on Vows and Oaths",
+      "malay": "Kitab Tentang Nazar dan Sumpah"
+    },
+    {
+      "id": 21,
+      "english": "The Book on Military Expeditions",
+      "malay": "Kitab tentang Ekspedisi Ketenteraan"
+    },
+    {
+      "id": 22,
+      "english": "The Book on Virtues of Jihad",
+      "malay": "Kitab Kelebihan Jihad"
+    },
+    {
+      "id": 23,
+      "english": "The Book on Jihad",
+      "malay": "Kitab tentang Jihad"
+    },
+    {
+      "id": 24,
+      "english": "The Book on Clothing",
+      "malay": "Kitab tentang Pakaian"
+    },
+    {
+      "id": 25,
+      "english": "The Book on Food",
+      "malay": "Kitab tentang Makanan"
+    },
+    {
+      "id": 26,
+      "english": "The Book on Drinks",
+      "malay": "Kitab Tentang Minuman"
+    },
+    {
+      "id": 27,
+      "english": "Chapters on Righteousness And Maintaining Good Relations With Relatives",
+      "malay": "Bab-bab Kebaikan dan Memelihara Hubungan Baik dengan Saudara-mara"
+    },
+    {
+      "id": 28,
+      "english": "Chapters on Medicine",
+      "malay": "Bab-Bab Mengenai Perubatan"
+    },
+    {
+      "id": 29,
+      "english": "Chapters On Inheritance",
+      "malay": "Bab-Bab Mengenai Pusaka"
+    },
+    {
+      "id": 30,
+      "english": "Chapters On Wasaya (Wills and Testament)",
+      "malay": "Bab-Bab Mengenai Wasaya (Wasiat)"
+    },
+    {
+      "id": 31,
+      "english": "Chapters On Wala' And Gifts",
+      "malay": "Bab-Bab Mengenai Wala' dan Pemberian"
+    },
+    {
+      "id": 32,
+      "english": "Chapters On Al-Qadar",
+      "malay": "Bab-bab Mengenai Al-Qadar"
+    },
+    {
+      "id": 33,
+      "english": "Chapters On Al-Fitan",
+      "malay": "Bab-Bab Mengenai Al-Fitan"
+    },
+    {
+      "id": 34,
+      "english": "Chapters On Dreams",
+      "malay": "Bab-Bab Mengenai Mimpi"
+    },
+    {
+      "id": 35,
+      "english": "Chapters On Witnesses",
+      "malay": "Bab-Bab Mengenai Saksi-Saksi"
+    },
+    {
+      "id": 36,
+      "english": "Chapters On Zuhd",
+      "malay": "Bab-bab Mengenai Zuhud"
+    },
+    {
+      "id": 37,
+      "english": "Chapters on the description of the Day of Judgement, Ar-Riqaq, and Al-Wara'",
+      "malay": "Bab-bab tentang gambaran Hari Kiamat, Ar-Riqaq, dan Al-Wara'"
+    },
+    {
+      "id": 38,
+      "english": "Chapters on the description of Paradise",
+      "malay": "Bab-bab mengenai sifat Syurga"
+    },
+    {
+      "id": 39,
+      "english": "The Book on the Description of Hellfire",
+      "malay": "Kitab Perihal Sifat Neraka"
+    },
+    {
+      "id": 40,
+      "english": "The Book on Faith",
+      "malay": "Kitab Iman"
+    },
+    {
+      "id": 41,
+      "english": "Chapters on Knowledge",
+      "malay": "Bab-Bab tentang Ilmu Pengetahuan"
+    },
+    {
+      "id": 42,
+      "english": "Chapters on Seeking Permission",
+      "malay": "Bab-bab Mengenai Meminta Izin"
+    },
+    {
+      "id": 43,
+      "english": "Chapters on Manners",
+      "malay": "Bab-Bab Mengenai Adab"
+    },
+    {
+      "id": 44,
+      "english": "Chapters on Parables",
+      "malay": "Bab-Bab Mengenai Perumpamaan"
+    },
+    {
+      "id": 45,
+      "english": "Chapters on The Virtues of the Qur'an",
+      "malay": "Bab-bab Mengenai Kelebihan Al-Quran"
+    },
+    {
+      "id": 46,
+      "english": "Chapters on Recitation",
+      "malay": "Bab-bab Mengenai Bacaan"
+    },
+    {
+      "id": 47,
+      "english": "Chapters on Tafsir",
+      "malay": "Bab-bab Mengenai Tafsir"
+    },
+    {
+      "id": 48,
+      "english": "Chapters on Supplication",
+      "malay": "Bab-Bab Mengenai Doa"
+    },
+    {
+      "id": 49,
+      "english": "Chapters on Virtues",
+      "malay": "Bab-bab tentang Kelebihan-kelebihan"
+    }
+  ]
+}

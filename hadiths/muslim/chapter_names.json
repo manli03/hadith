@@ -1,0 +1,304 @@
+{
+  "id": 2,
+  "metadata": {
+    "id": 2,
+    "length": 7459,
+    "arabic": {
+      "title": "صحيح مسلم",
+      "author": "الإمام مسلم بن الحجاج القشيري النيسابوري",
+      "introduction": ""
+    },
+    "english": {
+      "title": "Sahih Muslim",
+      "author": "Imam Muslim ibn al-Hajjaj al-Naysaburi",
+      "introduction": ""
+    }
+  },
+  "chapters": [
+    {
+      "id": 1,
+      "english": "The Book of Faith",
+      "malay": "Kitab Al-Iman"
+    },
+    {
+      "id": 2,
+      "english": "The Book of Purification",
+      "malay": "Kitab Bersuci"
+    },
+    {
+      "id": 3,
+      "english": "The Book of Menstruation",
+      "malay": "Kitab Haid"
+    },
+    {
+      "id": 4,
+      "english": "The Book of Prayers",
+      "malay": "Kitab Solat"
+    },
+    {
+      "id": 5,
+      "english": "The Book of Mosques and Places of Prayer",
+      "malay": "Kitab Masjid dan Tempat Solat"
+    },
+    {
+      "id": 6,
+      "english": "The Book of Prayer - Travellers",
+      "malay": "Kitab Solat - Musafir"
+    },
+    {
+      "id": 7,
+      "english": "The Book of Prayer - Friday",
+      "malay": "Kitab Solat - Jumaat"
+    },
+    {
+      "id": 8,
+      "english": "The Book of Prayer - Two Eids",
+      "malay": "Kitab Solat - Dua Hari Raya"
+    },
+    {
+      "id": 9,
+      "english": "The Book of Prayer - Rain",
+      "malay": "Kitab Solat - Istisqa' (Solat Minta Hujan)"
+    },
+    {
+      "id": 10,
+      "english": "The Book of Prayer - Eclipses",
+      "malay": "Kitab Solat - Gerhana"
+    },
+    {
+      "id": 11,
+      "english": "The Book of Prayer - Funerals",
+      "malay": "Kitab Solat - Jenazah"
+    },
+    {
+      "id": 12,
+      "english": "The Book of Zakat",
+      "malay": "Kitab Zakat"
+    },
+    {
+      "id": 13,
+      "english": "The Book of Fasting",
+      "malay": "Kitab Puasa"
+    },
+    {
+      "id": 14,
+      "english": "The Book of I'tikaf",
+      "malay": "Kitab I'tikaf"
+    },
+    {
+      "id": 15,
+      "english": "The Book of Pilgrimage",
+      "malay": "Kitab Haji"
+    },
+    {
+      "id": 16,
+      "english": "The Book of Marriage",
+      "malay": "Kitab Nikah"
+    },
+    {
+      "id": 17,
+      "english": "The Book of Suckling",
+      "malay": "Kitab Susuan"
+    },
+    {
+      "id": 18,
+      "english": "The Book of Divorce",
+      "malay": "Kitab Talak"
+    },
+    {
+      "id": 19,
+      "english": "The Book of Invoking Curses",
+      "malay": "Kitab Sumpah Melaknat"
+    },
+    {
+      "id": 20,
+      "english": "The Book of Emancipating Slaves",
+      "malay": "Kitab Memerdekakan Hamba"
+    },
+    {
+      "id": 21,
+      "english": "The Book of Transactions",
+      "malay": "Kitab Muamalat"
+    },
+    {
+      "id": 22,
+      "english": "The Book of Musaqah",
+      "malay": "Kitab Musaqah"
+    },
+    {
+      "id": 23,
+      "english": "The Book of the Rules of Inheritance",
+      "malay": "Kitab Hukum Faraid"
+    },
+    {
+      "id": 24,
+      "english": "The Book of Gifts",
+      "malay": "Kitab Pemberian"
+    },
+    {
+      "id": 25,
+      "english": "The Book of Wills",
+      "malay": "Kitab Wasiat"
+    },
+    {
+      "id": 26,
+      "english": "The Book of Vows",
+      "malay": "Kitab Nazar"
+    },
+    {
+      "id": 27,
+      "english": "The Book of Oaths",
+      "malay": "Kitab Sumpah"
+    },
+    {
+      "id": 28,
+      "english": "The Book of Oaths, Muharibin, Qasas (Retaliation), and Diyat (Blood Money)",
+      "malay": "Kitab Sumpah, Muharibin, Qisas (Balasan), dan Diyat (Pampasan)"
+    },
+    {
+      "id": 29,
+      "english": "The Book of Legal Punishments",
+      "malay": "Kitab Undang-Undang Hukuman"
+    },
+    {
+      "id": 30,
+      "english": "The Book of Judicial Decisions",
+      "malay": "Kitab Penghakiman"
+    },
+    {
+      "id": 31,
+      "english": "The Book of Lost Property",
+      "malay": "Kitab Barang Temuan"
+    },
+    {
+      "id": 32,
+      "english": "The Book of Jihad and Expeditions",
+      "malay": "Kitab Jihad dan Ekspedisi"
+    },
+    {
+      "id": 33,
+      "english": "The Book on Government",
+      "malay": "Kitab tentang Pemerintahan"
+    },
+    {
+      "id": 34,
+      "english": "The Book of Hunting, Slaughter, and what may be Eaten",
+      "malay": "Kitab Pemburuan, Sembelihan dan Binatang yang Boleh Dimakan"
+    },
+    {
+      "id": 35,
+      "english": "The Book of Sacrifices",
+      "malay": "Kitab Sembelihan"
+    },
+    {
+      "id": 36,
+      "english": "The Book of Drinks",
+      "malay": "Kitab Minuman"
+    },
+    {
+      "id": 37,
+      "english": "The Book of Clothes and Adornment",
+      "malay": "Kitab Pakaian dan Perhiasan"
+    },
+    {
+      "id": 38,
+      "english": "The Book of Manners and Etiquette",
+      "malay": "Kitab Adab dan Sopan Santun"
+    },
+    {
+      "id": 39,
+      "english": "The Book of Greetings",
+      "malay": "Kitab Memberi Salam"
+    },
+    {
+      "id": 40,
+      "english": "The Book Concerning the Use of Correct Words",
+      "malay": "Kitab tentang Penggunaan Kata-kata yang Betul"
+    },
+    {
+      "id": 41,
+      "english": "The Book of Poetry",
+      "malay": "Kitab Puisi"
+    },
+    {
+      "id": 42,
+      "english": "The Book of Dreams",
+      "malay": "Kitab Mimpi"
+    },
+    {
+      "id": 43,
+      "english": "The Book of Virtues",
+      "malay": "Kitab Keutamaan"
+    },
+    {
+      "id": 44,
+      "english": "The Book of the Merits of the Companions",
+      "malay": "Kitab Kelebihan Para Sahabat"
+    },
+    {
+      "id": 45,
+      "english": "The Book of Virtue, Enjoining Good Manners, and Joining of the Ties of Kinship",
+      "malay": "Kitab Adab, Menyuruh Berbuat Baik, dan Menyambung Tali Silaturahim"
+    },
+    {
+      "id": 46,
+      "english": "The Book of Destiny",
+      "malay": "Kitab Takdir"
+    },
+    {
+      "id": 47,
+      "english": "The Book of Knowledge",
+      "malay": "Kitab Ilmu"
+    },
+    {
+      "id": 48,
+      "english": "The Book Pertaining to the Remembrance of Allah, Supplication, Repentance and Seeking Forgiveness",
+      "malay": "Kitab Zikir, Doa, Taubat dan Istighfar"
+    },
+    {
+      "id": 49,
+      "english": "The Book of Heart-Melting Traditions",
+      "malay": "Kitab Hadis-Hadis yang Melembutkan Hati"
+    },
+    {
+      "id": 50,
+      "english": "The Book of Repentance",
+      "malay": "Kitab Taubat"
+    },
+    {
+      "id": 51,
+      "english": "Characteristics of The Hypocrites And Rulings Concerning Them",
+      "malay": "Sifat-Sifat Orang Munafik dan Hukum Berkaitan Mereka"
+    },
+    {
+      "id": 52,
+      "english": "Characteristics of the Day of Judgment, Paradise, and Hell",
+      "malay": "Sifat-sifat Hari Kiamat, Syurga dan Neraka"
+    },
+    {
+      "id": 53,
+      "english": "The Book of Paradise, its Description, its Bounties and its Inhabitants",
+      "malay": "Kitab Syurga, Sifat-sifatnya, Nikmat-nikmatnya dan Penghuninya"
+    },
+    {
+      "id": 54,
+      "english": "The Book of Tribulations and Portents of the Last Hour",
+      "malay": "Kitab Fitnah dan Tanda-tanda Hari Kiamat"
+    },
+    {
+      "id": 55,
+      "english": "The Book of Zuhd and Softening of Hearts",
+      "malay": "Kitab Zuhud dan Pelembut Hati"
+    },
+    {
+      "id": 56,
+      "english": "The Book of Commentary on the Qur'an",
+      "malay": "Kitab Tafsir al-Quran"
+    },
+    {
+      "id": 0,
+      "english": "Introduction",
+      "malay": "Pengenalan"
+    }
+  ]
+}

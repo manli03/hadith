@@ -1,0 +1,279 @@
+{
+  "id": 3,
+  "metadata": {
+    "id": 3,
+    "length": 5768,
+    "arabic": {
+      "title": "سنن النسائي",
+      "author": "الإمام أبو عبد الرحمن أحمد بن شعيب النسائي",
+      "introduction": ""
+    },
+    "english": {
+      "title": "Sunan al-Nasa'i",
+      "author": "Imam Ahmad ibn Shu'ayb al-Nasa'i",
+      "introduction": ""
+    }
+  },
+  "chapters": [
+    {
+      "id": 1,
+      "english": "The Book of Purification",
+      "malay": "Kitab Kebersihan"
+    },
+    {
+      "id": 2,
+      "english": "The Book of Water",
+      "malay": "Kitab Air"
+    },
+    {
+      "id": 3,
+      "english": "The Book of Menstruation and Istihadah",
+      "malay": "Kitab Haid dan Istihadah"
+    },
+    {
+      "id": 4,
+      "english": "The Book of Ghusl and Tayammum",
+      "malay": "Kitab Ghusl dan Tayammum"
+    },
+    {
+      "id": 5,
+      "english": "The Book of Salah",
+      "malay": "Kitab Solat"
+    },
+    {
+      "id": 6,
+      "english": "The Book of the Times (of Prayer)",
+      "malay": "Kitab Waktu-waktu (Solat)"
+    },
+    {
+      "id": 7,
+      "english": "The Book of the Adhan (The Call to Prayer)",
+      "malay": "Kitab Azan (Seruan Sembahyang)"
+    },
+    {
+      "id": 8,
+      "english": "The Book of the Masjids",
+      "malay": "Kitab Masjid"
+    },
+    {
+      "id": 9,
+      "english": "The Book of the Qiblah",
+      "malay": "Kitab Kiblat"
+    },
+    {
+      "id": 10,
+      "english": "The Book of Leading the Prayer (Al-Imamah)",
+      "malay": "Kitab Memimpin Solat (Al-Imamah)"
+    },
+    {
+      "id": 11,
+      "english": "The Book of the Commencement of the Prayer",
+      "malay": "Kitab Memulai Solat"
+    },
+    {
+      "id": 12,
+      "english": "The Book of The At-Tatbiq (Clasping One's Hands Together)",
+      "malay": "Kitab At-Tatbiq (Menggenggam Kedua Tangan)"
+    },
+    {
+      "id": 13,
+      "english": "The Book of Forgetfulness (In Prayer)",
+      "malay": "Kitab Kelalaian (dalam Solat)"
+    },
+    {
+      "id": 14,
+      "english": "The Book of Jumu'ah (Friday Prayer)",
+      "malay": "Kitab Solat Jumaat"
+    },
+    {
+      "id": 15,
+      "english": "The Book of Shortening the Prayer When Traveling",
+      "malay": "Kitab Mengqasar Solat Ketika Musafir"
+    },
+    {
+      "id": 16,
+      "english": "The Book of Eclipses",
+      "malay": "Kitab Khusuf"
+    },
+    {
+      "id": 17,
+      "english": "The Book of Praying for Rain (Al-Istisqa')",
+      "malay": "Kitab Istisqa'"
+    },
+    {
+      "id": 18,
+      "english": "The Book of the Fear Prayer",
+      "malay": "Kitab Solat Khوف"
+    },
+    {
+      "id": 19,
+      "english": "The Book of the Prayer for the Two 'Eids",
+      "malay": "Kitab Solat Kedua Hari Raya"
+    },
+    {
+      "id": 20,
+      "english": "The Book of Qiyam Al-Lail (The Night Prayer) and Voluntary Prayers During the Day",
+      "malay": "Kitab Qiyam al-Lail dan Solat Sunat Siang Hari"
+    },
+    {
+      "id": 21,
+      "english": "The Book of Funerals",
+      "malay": "Kitab Al-Jana'iz"
+    },
+    {
+      "id": 22,
+      "english": "The Book of Fasting",
+      "malay": "Kitab Puasa"
+    },
+    {
+      "id": 23,
+      "english": "The Book of Zakah",
+      "malay": "Kitab Zakat"
+    },
+    {
+      "id": 24,
+      "english": "The Book of Hajj",
+      "malay": "Kitab Haji"
+    },
+    {
+      "id": 25,
+      "english": "The Book of Jihad",
+      "malay": "Kitab al-Jihad"
+    },
+    {
+      "id": 26,
+      "english": "The Book of Marriage",
+      "malay": "Kitab Nikah"
+    },
+    {
+      "id": 27,
+      "english": "The Book of Divorce",
+      "malay": "Kitab Talak"
+    },
+    {
+      "id": 28,
+      "english": "The Book of Horses, Races and Shooting",
+      "malay": "Kitab Kuda, Perlumbaan dan Memanah"
+    },
+    {
+      "id": 29,
+      "english": "The Book of Endowments",
+      "malay": "Kitab Wasilah"
+    },
+    {
+      "id": 30,
+      "english": "The Book of Wills",
+      "malay": "Kitab Wassiah"
+    },
+    {
+      "id": 31,
+      "english": "The Book of Presents",
+      "malay": "Kitab Hadiah"
+    },
+    {
+      "id": 32,
+      "english": "The Book of Gifts",
+      "malay": "Kitab Hadiah"
+    },
+    {
+      "id": 33,
+      "english": "The Book of ar-Ruqba",
+      "malay": "Kitab ar-Ruqba"
+    },
+    {
+      "id": 34,
+      "english": "The Book of 'Umra",
+      "malay": "Kitab 'Umrah"
+    },
+    {
+      "id": 35,
+      "english": "The Book of Oaths and Vows",
+      "malay": "Kitab Sumpah dan Nadzar"
+    },
+    {
+      "id": 100,
+      "english": "The Book of Agriculture",
+      "malay": "Kitab Pertanian"
+    },
+    {
+      "id": 36,
+      "english": "The Book of the Kind Treatment of Women",
+      "malay": "Kitab Perlakuan Baik Terhadap Wanita"
+    },
+    {
+      "id": 37,
+      "english": "The Book of Fighting [The Prohibition of Bloodshed]",
+      "malay": "Kitab Al-Jihad (Larangan Menumpahkan Darah)"
+    },
+    {
+      "id": 38,
+      "english": "The Book of Distribution of Al-Fay'",
+      "malay": "Kitab Pembahagian Al-Fay'"
+    },
+    {
+      "id": 39,
+      "english": "The Book of al-Bay'ah",
+      "malay": "Kitab al-Bai'ah"
+    },
+    {
+      "id": 40,
+      "english": "The Book of al-'Aqiqah",
+      "malay": "Kitab al-'Aqiqah"
+    },
+    {
+      "id": 41,
+      "english": "The Book of al-Fara' and al-'Atirah",
+      "malay": "Kitab al-Fara' dan al-'Atirah"
+    },
+    {
+      "id": 42,
+      "english": "The Book of Hunting and Slaughtering",
+      "malay": "Bab Perburuan dan Penyembelihan"
+    },
+    {
+      "id": 43,
+      "english": "The Book of ad-Dahaya (Sacrifices)",
+      "malay": "Kitab al-Adha"
+    },
+    {
+      "id": 44,
+      "english": "The Book of Financial Transactions",
+      "malay": "Kitab Muamalat"
+    },
+    {
+      "id": 45,
+      "english": "The Book of Oaths (qasamah), Retaliation and Blood Money",
+      "malay": "Kitab Sumpah, Qisas, dan Diat"
+    },
+    {
+      "id": 46,
+      "english": "The Book of Cutting off the Hand of the Thief",
+      "malay": "Bab Memutus Tangan Pencuri"
+    },
+    {
+      "id": 47,
+      "english": "The Book Of Faith and its Signs",
+      "malay": "Kitab Iman dan Tanda-tandanya"
+    },
+    {
+      "id": 48,
+      "english": "The Book of Adornment",
+      "malay": "Kitab Perhiasan"
+    },
+    {
+      "id": 49,
+      "english": "The Book of the Etiquette of Judges",
+      "malay": "Kitab Adab Hakim"
+    },
+    {
+      "id": 50,
+      "english": "The Book of Seeking Refuge with Allah",
+      "malay": "Kitab Perlindungan kepada Allah"
+    },
+    {
+      "id": 51,
+      "english": "The Book of Drinks",
+      "malay": "Kitab Minuman"
+    }
+  ]
+}

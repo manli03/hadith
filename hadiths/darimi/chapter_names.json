@@ -1,0 +1,139 @@
+{
+  "id": 9,
+  "metadata": {
+    "id": 9,
+    "length": 3406,
+    "arabic": {
+      "title": "سنن الدارمي",
+      "author": "الإمام أبو محمد عبد الرحمن بن عبد الله بن الدارمي",
+      "introduction": ""
+    },
+    "english": {
+      "title": "Sunan al-Darimi",
+      "author": "Imam Abu Muhammad Abd al-Rahman ibn Abd Allah ibn al-Darimi",
+      "introduction": ""
+    }
+  },
+  "chapters": [
+    {
+      "id": 1,
+      "english": "كِتَاب الطَّهَارَةِ",
+      "malay": "Kitab al-Taharah"
+    },
+    {
+      "id": 2,
+      "english": "كِتَاب الصَّلَاةِ",
+      "malay": "Kitab Solat"
+    },
+    {
+      "id": 3,
+      "english": "مِنْ كِتَابِ الزَّكَاةِ",
+      "malay": "Kitab Zakat"
+    },
+    {
+      "id": 4,
+      "english": "وَمِنْ كِتَابِ الصَّوْمِ",
+      "malay": "Kitab As-Saum"
+    },
+    {
+      "id": 5,
+      "english": "مِنْ كِتَابِ الْمَنَاسِكِ",
+      "malay": "Kitab Manasik"
+    },
+    {
+      "id": 6,
+      "english": "مِنْ كِتَابِ الْأَضَاحِيِّ",
+      "malay": "Kitab Al-Adahi"
+    },
+    {
+      "id": 7,
+      "english": "وَمِنْ كِتَابِ الصَّيْدِ",
+      "malay": "Kitab Pemburuan"
+    },
+    {
+      "id": 8,
+      "english": "وَمِنْ كِتَابِ الْأَطْعِمَةِ",
+      "malay": "Kitab Al-At`imah"
+    },
+    {
+      "id": 9,
+      "english": "وَمِنْ كِتَابِ الْأَشْرِبَةِ",
+      "malay": "Kitab Al-Ashribah"
+    },
+    {
+      "id": 10,
+      "english": "وَمِنْ كِتَابِ الرُّؤْيَا",
+      "malay": "Kitab Ar-Ru'ya"
+    },
+    {
+      "id": 11,
+      "english": "وَمِنْ كِتَابِ النِّكَاحِ",
+      "malay": "Kitab Nikah"
+    },
+    {
+      "id": 12,
+      "english": "وَمِنْ كِتَابِ الطَّلَاقِ",
+      "malay": "Kitab Talak"
+    },
+    {
+      "id": 13,
+      "english": "وَمِنْ كِتَابِ الْحُدُودِ",
+      "malay": "Kitab Al-Hudud"
+    },
+    {
+      "id": 14,
+      "english": "وَمِنْ كِتَابِ النُّذُورِ وَالْأَيْمَانِ",
+      "malay": "Kitab Nazar dan Sumpah"
+    },
+    {
+      "id": 15,
+      "english": "وَمِنْ كِتَابِ الدِّيَاتِ",
+      "malay": "Kitab Diyat"
+    },
+    {
+      "id": 16,
+      "english": "كِتَاب الْجِهَادِ",
+      "malay": "Kitab al-Jihad"
+    },
+    {
+      "id": 17,
+      "english": "وَمِنْ كِتَابِ السِّيَرِ",
+      "malay": "Kitab As-Siyar"
+    },
+    {
+      "id": 18,
+      "english": "وَمِنْ كِتَابِ الْبُيُوعِ",
+      "malay": "Kitab Al-Buyu'"
+    },
+    {
+      "id": 19,
+      "english": "وَمِنْ كِتَابِ الِاسْتِئْذَانِ",
+      "malay": "Kitab Isti'dhan (Permintaan Izin)"
+    },
+    {
+      "id": 20,
+      "english": "وَمِنْ كِتَابِ الرِّقَاقِ",
+      "malay": "Kitab Ar-Riqāq"
+    },
+    {
+      "id": 21,
+      "english": "مِنْ كِتَابِ الْفَرَائِضِ",
+      "malay": "Kitab al-Fara'id"
+    },
+    {
+      "id": 22,
+      "english": "مِنْ كِتَابِ الْوَصَايَا",
+      "malay": "Kitab Wasiat"
+    },
+    {
+      "id": 23,
+      "english": "وَمِنْ كِتَابِ فَضَائِلِ الْقُرْآنِ",
+      "malay": "Kitab Kelebihan Al-Quran"
+    },
+    {
+      "id": 0,
+      "english": "سنن الدارمي",
+      "malay": "Sunan al-Darimi"
+    }
+  ]
+}

@@ -1,0 +1,234 @@
+{
+  "id": 4,
+  "metadata": {
+    "id": 4,
+    "length": 5276,
+    "arabic": {
+      "title": "سنن أبي داود",
+      "author": "الإمام سليمان بن الأشعث أبو داود السجستاني",
+      "introduction": ""
+    },
+    "english": {
+      "title": "Sunan Abi Dawud",
+      "author": "Imam Sulayman ibn al-Ash'ath Abu Dawud al-Sijistani",
+      "introduction": ""
+    }
+  },
+  "chapters": [
+    {
+      "id": 1,
+      "english": "Purification (Kitab Al-Taharah)",
+      "malay": "Penyucian (Kitab Al-Taharah)"
+    },
+    {
+      "id": 2,
+      "english": "Prayer (Kitab Al-Salat)",
+      "malay": "Solat (Kitab Al-Salat)"
+    },
+    {
+      "id": 3,
+      "english": "The Book Of The Prayer For Rain (Kitab al-Istisqa')",
+      "malay": "Kitab Solat Memohon Hujan (Kitab al-Istisqa')"
+    },
+    {
+      "id": 4,
+      "english": "Prayer (Kitab Al-Salat): Detailed Rules of Law about the Prayer during Journey",
+      "malay": "Solat (Kitab al-Salat): Hukum-hukum Terperinci tentang Solat dalam Musafir"
+    },
+    {
+      "id": 5,
+      "english": "Prayer (Kitab Al-Salat): Voluntary Prayers",
+      "malay": "Solat (Kitab Al-Salat): Solat-Solat Sunat"
+    },
+    {
+      "id": 6,
+      "english": "Prayer (Kitab Al-Salat): Detailed Injunctions about Ramadan",
+      "malay": "Solat (Kitab Al-Solat): Perintah Terperinci tentang Ramadan"
+    },
+    {
+      "id": 7,
+      "english": "Prayer (Kitab Al-Salat): Prostration while reciting the Qur'an",
+      "malay": "Solat (Kitab Al-Salat): Sujud Tilawah"
+    },
+    {
+      "id": 8,
+      "english": "Prayer (Kitab Al-Salat): Detailed Injunctions about Witr",
+      "malay": "Solat (Kitab Al-Salat): Perincian Hukum Berkenaan Witir"
+    },
+    {
+      "id": 9,
+      "english": "Zakat (Kitab Al-Zakat)",
+      "malay": "Zakat (Kitab Zakat)"
+    },
+    {
+      "id": 10,
+      "english": "The Book of Lost and Found Items",
+      "malay": "Kitab Barang Temuan"
+    },
+    {
+      "id": 11,
+      "english": "The Rites of Hajj (Kitab Al-Manasik Wa'l-Hajj)",
+      "malay": "Rukun Haji (Kitab al-Manasik wa'l-Hajj)"
+    },
+    {
+      "id": 12,
+      "english": "Marriage (Kitab Al-Nikah)",
+      "malay": "Perkahwinan (Kitab Al-Nikah)"
+    },
+    {
+      "id": 13,
+      "english": "Divorce (Kitab Al-Talaq)",
+      "malay": "Perceraian (Kitab Al-Talaq)"
+    },
+    {
+      "id": 14,
+      "english": "Fasting (Kitab Al-Siyam)",
+      "malay": "Puasa (Kitab Al-Siyam)"
+    },
+    {
+      "id": 15,
+      "english": "Jihad (Kitab Al-Jihad)",
+      "malay": "Jihad (Kitab Al-Jihad)"
+    },
+    {
+      "id": 16,
+      "english": "Sacrifice (Kitab Al-Dahaya)",
+      "malay": "Korban (Kitab Al-Dahaya)"
+    },
+    {
+      "id": 17,
+      "english": "Game (Kitab Al-Said)",
+      "malay": "Kitab al-Said (Berburu)"
+    },
+    {
+      "id": 18,
+      "english": "Wills (Kitab Al-Wasaya)",
+      "malay": "Wasiat (Kitab Al-Wasaya)"
+    },
+    {
+      "id": 19,
+      "english": "Shares of Inheritance (Kitab Al-Fara'id)",
+      "malay": "Bahagian Pusaka (Kitab Al-Fara'id)"
+    },
+    {
+      "id": 20,
+      "english": "Tribute, Spoils, and Rulership (Kitab Al-Kharaj, Wal-Fai' Wal-Imarah)",
+      "malay": "Penghormatan, Rampasan, dan Pemerintahan (Kitab Al-Kharaj, Wal-Fai' Wal-Imarah)"
+    },
+    {
+      "id": 21,
+      "english": "Funerals (Kitab Al-Jana'iz)",
+      "malay": "Jenazah (Kitab Al-Jana'iz)"
+    },
+    {
+      "id": 22,
+      "english": "Oaths and Vows (Kitab Al-Aiman Wa Al-Nudhur)",
+      "malay": "Sumpah dan Nazar (Kitab Al-Aiman Wa Al-Nudhur)"
+    },
+    {
+      "id": 23,
+      "english": "Commercial Transactions (Kitab Al-Buyu)",
+      "malay": "Transaksi Komersial (Kitab Al-Buyu')"
+    },
+    {
+      "id": 24,
+      "english": "Wages (Kitab Al-Ijarah)",
+      "malay": "Upah (Kitab Al-Ijarah)"
+    },
+    {
+      "id": 25,
+      "english": "The Office of the Judge (Kitab Al-Aqdiyah)",
+      "malay": "Kitab Al-Aqdiyah (Perjawatan Hakim)"
+    },
+    {
+      "id": 26,
+      "english": "Knowledge (Kitab Al-Ilm)",
+      "malay": "Ilmu (Kitab Al-Ilm)"
+    },
+    {
+      "id": 27,
+      "english": "Drinks (Kitab Al-Ashribah)",
+      "malay": "Minuman (Kitab Al-Asyribah)"
+    },
+    {
+      "id": 28,
+      "english": "Foods (Kitab Al-At'imah)",
+      "malay": "Makanan (Kitab Al-At'imah)"
+    },
+    {
+      "id": 29,
+      "english": "Medicine (Kitab Al-Tibb)",
+      "malay": "Perubatan (Kitab Al-Tibb)"
+    },
+    {
+      "id": 30,
+      "english": "Divination and Omens (Kitab Al-Kahanah Wa Al-Tatayyur)",
+      "malay": "Ramalan dan Petanda (Kitab Al-Kahanah Wa Al-Tatayyur)"
+    },
+    {
+      "id": 31,
+      "english": "The Book of Manumission of Slaves",
+      "malay": "Kitab Memerdekakan Budak"
+    },
+    {
+      "id": 32,
+      "english": "Dialects and Readings of the Qur'an (Kitab Al-Huruf Wa Al-Qira'at)",
+      "malay": "Dialek dan Bacaan Al-Qur'an (Kitab Al-Huruf Wa Al-Qira'at)"
+    },
+    {
+      "id": 33,
+      "english": "Hot Baths (Kitab Al-Hammam)",
+      "malay": "Mandi Air Panas (Kitab Al-Hammam)"
+    },
+    {
+      "id": 34,
+      "english": "Clothing (Kitab Al-Libas)",
+      "malay": "Pakaian (Kitab Al-Libas)"
+    },
+    {
+      "id": 35,
+      "english": "Combing the Hair (Kitab Al-Tarajjul)",
+      "malay": "Bab Menyisir Rambut (Kitab Al-Tarajjul)"
+    },
+    {
+      "id": 36,
+      "english": "Signet-Rings (Kitab Al-Khatam)",
+      "malay": "Bab Tentang Cincin (Kitab Al-Khatam)"
+    },
+    {
+      "id": 37,
+      "english": "Trials and Fierce Battles (Kitab Al-Fitan Wa Al-Malahim)",
+      "malay": "Ujian dan Peperangan Dahsyat (Kitab Al-Fitan Wa Al-Malahim)"
+    },
+    {
+      "id": 38,
+      "english": "The Promised Deliverer (Kitab Al-Mahdi)",
+      "malay": "Penyelamat yang Dijanjikan (Kitab Al-Mahdi)"
+    },
+    {
+      "id": 39,
+      "english": "Battles (Kitab Al-Malahim)",
+      "malay": "Peperangan (Kitab Al-Malahim)"
+    },
+    {
+      "id": 40,
+      "english": "Prescribed Punishments (Kitab Al-Hudud)",
+      "malay": "Hukuman yang Ditetapkan (Kitab Al-Hudud)"
+    },
+    {
+      "id": 41,
+      "english": "Types of Blood-Wit (Kitab Al-Diyat)",
+      "malay": "Jenis-Jenis Diyat (Kitab Al-Diyat)"
+    },
+    {
+      "id": 42,
+      "english": "Model Behavior of the Prophet (Kitab Al-Sunnah)",
+      "malay": "Contoh Tingkah Laku Nabi (Kitab Al-Sunnah)"
+    },
+    {
+      "id": 43,
+      "english": "General Behavior (Kitab Al-Adab)",
+      "malay": "Adab dan Akhlak Mulia (Kitab Al-Adab)"
+    }
+  ]
+}

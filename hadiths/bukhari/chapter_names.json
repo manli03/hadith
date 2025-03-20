@@ -1,0 +1,504 @@
+{
+  "id": 1,
+  "metadata": {
+    "id": 1,
+    "length": 7277,
+    "arabic": {
+      "title": "صحيح البخاري",
+      "author": "الإمام محمد بن إسماعيل البخاري",
+      "introduction": ""
+    },
+    "english": {
+      "title": "Sahih al-Bukhari",
+      "author": "Imam Muhammad ibn Ismail al-Bukhari",
+      "introduction": ""
+    }
+  },
+  "chapters": [
+    {
+      "id": 1,
+      "english": "Revelation",
+      "malay": "Wahyu"
+    },
+    {
+      "id": 2,
+      "english": "Belief",
+      "malay": "Kepercayaan"
+    },
+    {
+      "id": 3,
+      "english": "Knowledge",
+      "malay": "Ilmu"
+    },
+    {
+      "id": 4,
+      "english": "Ablutions (Wudu')",
+      "malay": "Wuduk"
+    },
+    {
+      "id": 5,
+      "english": "Bathing (Ghusl)",
+      "malay": "Mandi Wajib (Ghusl)"
+    },
+    {
+      "id": 6,
+      "english": "Menstrual Periods",
+      "malay": "Haid"
+    },
+    {
+      "id": 7,
+      "english": "Rubbing hands and feet with dust (Tayammum)",
+      "malay": "Menyapu Tangan dan Kaki dengan Debu (Tayammum)"
+    },
+    {
+      "id": 8,
+      "english": "Prayers (Salat)",
+      "malay": "Solat"
+    },
+    {
+      "id": 9,
+      "english": "Times of the Prayers",
+      "malay": "Waktu-Waktu Solat"
+    },
+    {
+      "id": 10,
+      "english": "Call to Prayers (Adhaan)",
+      "malay": "Seruan untuk Solat (Azan)"
+    },
+    {
+      "id": 11,
+      "english": "Friday Prayer",
+      "malay": "Solat Jumaat"
+    },
+    {
+      "id": 12,
+      "english": "Fear Prayer",
+      "malay": "Solat Khauf"
+    },
+    {
+      "id": 13,
+      "english": "The Two Festivals (Eids)",
+      "malay": "Dua Hari Raya ('Eid)"
+    },
+    {
+      "id": 14,
+      "english": "Witr Prayer",
+      "malay": "Solat Witir"
+    },
+    {
+      "id": 15,
+      "english": "Invoking Allah for Rain (Istisqaa)",
+      "malay": "Memohon Allah untuk Hujan (Istisqa')"
+    },
+    {
+      "id": 16,
+      "english": "Eclipses",
+      "malay": "Gerhana"
+    },
+    {
+      "id": 17,
+      "english": "Prostration During Recital of Qur'an",
+      "malay": "Sujud Tilawah al-Qur'an"
+    },
+    {
+      "id": 18,
+      "english": "Shortening the Prayers (At-Taqseer)",
+      "malay": "Memendekkan Solat (At-Taqseer)"
+    },
+    {
+      "id": 19,
+      "english": "Prayer at Night (Tahajjud)",
+      "malay": "Solat Malam (Tahajjud)"
+    },
+    {
+      "id": 20,
+      "english": "Virtues of Prayer at Masjid Makkah and Madinah",
+      "malay": "Keutamaan Solat di Masjid Makkah dan Madinah"
+    },
+    {
+      "id": 21,
+      "english": "Actions while Praying",
+      "malay": "Perbuatan-perbuatan Semasa Solat"
+    },
+    {
+      "id": 22,
+      "english": "Forgetfulness in Prayer",
+      "malay": "Lupa Dalam Solat"
+    },
+    {
+      "id": 23,
+      "english": "Funerals (Al-Janaa'iz)",
+      "malay": "Jenazah (Al-Janaa'iz)"
+    },
+    {
+      "id": 24,
+      "english": "Obligatory Charity Tax (Zakat)",
+      "malay": "Zakat yang Wajib"
+    },
+    {
+      "id": 25,
+      "english": "Hajj (Pilgrimage)",
+      "malay": "Haji (Ziarah)"
+    },
+    {
+      "id": 26,
+      "english": "`Umrah (Minor pilgrimage)",
+      "malay": "Umrah (Ziarah Kecil)"
+    },
+    {
+      "id": 27,
+      "english": "Pilgrims Prevented from Completing the Pilgrimage",
+      "malay": "Larangan Jemaah Haji Menyempurnakan Haji"
+    },
+    {
+      "id": 28,
+      "english": "Penalty of Hunting while on Pilgrimage",
+      "malay": "Larangan Memburu Semasa Ihram"
+    },
+    {
+      "id": 29,
+      "english": "Virtues of Madinah",
+      "malay": "Keutamaan Madinah"
+    },
+    {
+      "id": 30,
+      "english": "Fasting",
+      "malay": "Puasa"
+    },
+    {
+      "id": 31,
+      "english": "Praying at Night in Ramadaan (Taraweeh)",
+      "malay": "Solat Malam di Bulan Ramadhan (Taraweeh)"
+    },
+    {
+      "id": 32,
+      "english": "Virtues of the Night of Qadr",
+      "malay": "Keutamaan Malam Qadar"
+    },
+    {
+      "id": 33,
+      "english": "Retiring to a Mosque for Remembrance of Allah (I'tikaf)",
+      "malay": "Beriktikaf di Masjid untuk Mengingati Allah"
+    },
+    {
+      "id": 34,
+      "english": "Sales and Trade",
+      "malay": "Jual Beli dan Perdagangan"
+    },
+    {
+      "id": 35,
+      "english": "Sales in which a Price is paid for Goods to be Delivered Later (As-Salam)",
+      "malay": "Jual Beli dengan Pembayaran di Muka untuk Barang yang Diserahkan Kemudian (As-Salam)"
+    },
+    {
+      "id": 36,
+      "english": "Shuf'a",
+      "malay": "Syafaat"
+    },
+    {
+      "id": 37,
+      "english": "Hiring",
+      "malay": "Pengambilan Pekerja"
+    },
+    {
+      "id": 38,
+      "english": "Transferance of a Debt from One Person to Another (Al-Hawaala)",
+      "malay": "Pemindahan Hutang dari Seseorang kepada Orang Lain (Al-Hawaalah)"
+    },
+    {
+      "id": 39,
+      "english": "Kafalah",
+      "malay": "Kafalah"
+    },
+    {
+      "id": 40,
+      "english": "Representation, Authorization, Business by Proxy",
+      "malay": "Perwakilan, Pemberian Kuasa, Perniagaan Melalui Wakil"
+    },
+    {
+      "id": 41,
+      "english": "Agriculture",
+      "malay": "Pertanian"
+    },
+    {
+      "id": 42,
+      "english": "Distribution of Water",
+      "malay": "Pembahagian Air"
+    },
+    {
+      "id": 43,
+      "english": "Loans, Payment of Loans, Freezing of Property, Bankruptcy",
+      "malay": "Pinjaman, Pembayaran Pinjaman, Pembekuan Harta, Muflis"
+    },
+    {
+      "id": 44,
+      "english": "Khusoomaat",
+      "malay": "Khusumat"
+    },
+    {
+      "id": 45,
+      "english": "Lost Things Picked up by Someone (Luqatah)",
+      "malay": "Barang Hilang yang Ditemui Seseorang (Luqatah)"
+    },
+    {
+      "id": 46,
+      "english": "Oppressions",
+      "malay": "Kezaliman"
+    },
+    {
+      "id": 47,
+      "english": "Partnership",
+      "malay": "Perkongsian"
+    },
+    {
+      "id": 48,
+      "english": "Mortgaging",
+      "malay": "Ar-Rahnu"
+    },
+    {
+      "id": 49,
+      "english": "Manumission of Slaves",
+      "malay": "Pembebasan Hamba"
+    },
+    {
+      "id": 50,
+      "english": "Makaatib",
+      "malay": "Makaatib"
+    },
+    {
+      "id": 51,
+      "english": "Gifts",
+      "malay": "Pemberian-Pemberian"
+    },
+    {
+      "id": 52,
+      "english": "Witnesses",
+      "malay": "Saksi-Saksi"
+    },
+    {
+      "id": 53,
+      "english": "Peacemaking",
+      "malay": "Pendamaian"
+    },
+    {
+      "id": 54,
+      "english": "Conditions",
+      "malay": "Syarat-Syarat"
+    },
+    {
+      "id": 55,
+      "english": "Wills and Testaments (Wasaayaa)",
+      "malay": "Wasiat-wasiat (Wasaayaa)"
+    },
+    {
+      "id": 56,
+      "english": "Fighting for the Cause of Allah (Jihaad)",
+      "malay": "Berjuang di Jalan Allah (Jihad)"
+    },
+    {
+      "id": 57,
+      "english": "One-fifth of Booty to the Cause of Allah (Khumus)",
+      "malay": "Seperlima Ghanimah untuk Jalan Allah (Khumus)"
+    },
+    {
+      "id": 58,
+      "english": "Jizyah and Mawaada'ah",
+      "malay": "Jizyah dan Mawaada'ah"
+    },
+    {
+      "id": 59,
+      "english": "Beginning of Creation",
+      "malay": "Permulaan Penciptaan"
+    },
+    {
+      "id": 60,
+      "english": "Prophets",
+      "malay": "Para Nabi"
+    },
+    {
+      "id": 61,
+      "english": "Virtues and Merits of the Prophet (pbuh) and his Companions",
+      "malay": "Keutamaan dan Kelebihan Nabi (SAW) dan Para Sahabatnya"
+    },
+    {
+      "id": 62,
+      "english": "Companions of the Prophet",
+      "malay": "Sahabat-Sahabat Nabi"
+    },
+    {
+      "id": 63,
+      "english": "Merits of the Helpers in Madinah (Ansaar)",
+      "malay": "Keutamaan Para Pembantu di Madinah (Ansar)"
+    },
+    {
+      "id": 64,
+      "english": "Military Expeditions led by the Prophet (pbuh) (Al-Maghaazi)",
+      "malay": "Ekspedisi Ketenteraan yang Dipimpin oleh Nabi (SAW) (Al-Maghaazi)"
+    },
+    {
+      "id": 65,
+      "english": "Prophetic Commentary on the Qur'an (Tafseer of the Prophet (pbuh))",
+      "malay": "Tafsiran Nabi (SAW) Terhadap Al-Quran"
+    },
+    {
+      "id": 66,
+      "english": "Virtues of the Qur'an",
+      "malay": "Keutamaan Al-Quran"
+    },
+    {
+      "id": 67,
+      "english": "Wedlock, Marriage (Nikaah)",
+      "malay": "Perkahwinan, Nikah"
+    },
+    {
+      "id": 68,
+      "english": "Divorce",
+      "malay": "Talak"
+    },
+    {
+      "id": 69,
+      "english": "Supporting the Family",
+      "malay": "Menafkahi Keluarga"
+    },
+    {
+      "id": 70,
+      "english": "Food, Meals",
+      "malay": "Makanan, Hidangan"
+    },
+    {
+      "id": 71,
+      "english": "Sacrifice on Occasion of Birth (`Aqiqa)",
+      "malay": "Korban Sempena Kelahiran (`Aqiqah)"
+    },
+    {
+      "id": 72,
+      "english": "Hunting, Slaughtering",
+      "malay": "Berburu dan Sembelihan"
+    },
+    {
+      "id": 73,
+      "english": "Al-Adha Festival Sacrifice (Adaahi)",
+      "malay": "Korban Sempena Aidiladha (Adahi)"
+    },
+    {
+      "id": 74,
+      "english": "Drinks",
+      "malay": "Minuman"
+    },
+    {
+      "id": 75,
+      "english": "Patients",
+      "malay": "Orang-Orang Yang Sabar"
+    },
+    {
+      "id": 76,
+      "english": "Medicine",
+      "malay": "Perubatan"
+    },
+    {
+      "id": 77,
+      "english": "Dress",
+      "malay": "Pakaian"
+    },
+    {
+      "id": 78,
+      "english": "Good Manners and Form (Al-Adab)",
+      "malay": "Adab dan Budi Pekerti"
+    },
+    {
+      "id": 79,
+      "english": "Asking Permission",
+      "malay": "Meminta Izin"
+    },
+    {
+      "id": 80,
+      "english": "Invocations",
+      "malay": "Doa-doa"
+    },
+    {
+      "id": 81,
+      "english": "To make the Heart Tender (Ar-Riqaq)",
+      "malay": "Melembutkan Hati (Ar-Riqaq)"
+    },
+    {
+      "id": 82,
+      "english": "Divine Will (Al-Qadar)",
+      "malay": "Al-Qadar"
+    },
+    {
+      "id": 83,
+      "english": "Oaths and Vows",
+      "malay": "Sumpah dan Nazar"
+    },
+    {
+      "id": 84,
+      "english": "Expiation for Unfulfilled Oaths",
+      "malay": "Penebusan Sumpah yang Tidak Ditunaikan"
+    },
+    {
+      "id": 85,
+      "english": "Laws of Inheritance (Al-Faraa'id)",
+      "malay": "Hukum Warisan (Al-Faraid)"
+    },
+    {
+      "id": 86,
+      "english": "Limits and Punishments set by Allah (Hudood)",
+      "malay": "Had dan Hukuman yang Ditetapkan oleh Allah (Hudud)"
+    },
+    {
+      "id": 87,
+      "english": "Blood Money (Ad-Diyat)",
+      "malay": "Diyat (Pampasan)"
+    },
+    {
+      "id": 88,
+      "english": "Apostates",
+      "malay": "Orang-Orang Murtad"
+    },
+    {
+      "id": 89,
+      "english": "(Statements made under) Coercion",
+      "malay": "(Keterangan yang Dibuat di Bawah) Paksaan"
+    },
+    {
+      "id": 90,
+      "english": "Tricks",
+      "malay": "Helah"
+    },
+    {
+      "id": 91,
+      "english": "Interpretation of Dreams",
+      "malay": "Takbir Mimpi"
+    },
+    {
+      "id": 92,
+      "english": "Afflictions and the End of the World",
+      "malay": "Fitnah dan Tanda-Tanda Kiamat"
+    },
+    {
+      "id": 93,
+      "english": "Judgments (Ahkaam)",
+      "malay": "Hukum-hakam (Ahkaam)"
+    },
+    {
+      "id": 94,
+      "english": "Wishes",
+      "malay": "Hajat"
+    },
+    {
+      "id": 95,
+      "english": "Accepting Information Given by a Truthful Person",
+      "malay": "Menerima Khabar yang Dibawa oleh Orang yang Benar"
+    },
+    {
+      "id": 96,
+      "english": "Holding Fast to the Qur'an and Sunnah",
+      "malay": "Berpegang Teguh kepada Al-Qur'an dan Sunnah"
+    },
+    {
+      "id": 97,
+      "english": "Oneness, Uniqueness of Allah (Tawheed)",
+      "malay": "Keesaan dan Keunikan Allah (Tawhid)"
+    }
+  ]
+}
