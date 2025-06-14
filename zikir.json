@@ -1,0 +1,87 @@
+
+[
+  {
+    "id": 1,
+    "arabic": "سُبْحَانَ ٱللَّٰهِ",
+    "latin": "Subhanallah",
+    "translation": "Maha Suci Allah"
+  },
+  {
+    "id": 2,
+    "arabic": "ٱلْحَمْدُ لِلَّٰهِ",
+    "latin": "Alhamdulillah",
+    "translation": "Segala puji bagi Allah"
+  },
+  {
+    "id": 3,
+    "arabic": "اللَّهُ أَكْبَرُ",
+    "latin": "Allahu Akbar",
+    "translation": "Allah Maha Besar"
+  },
+  {
+    "id": 4,
+    "arabic": "لَا إِلٰهَ إِلَّا ٱللَّٰهُ",
+    "latin": "La ilaha illallah",
+    "translation": "Tiada Tuhan selain Allah"
+  },
+  {
+    "id": 5,
+    "arabic": "أَسْتَغْفِرُ ٱللَّٰهَ",
+    "latin": "Astaghfirullah",
+    "translation": "Aku memohon ampun kepada Allah"
+  },
+  {
+    "id": 6,
+    "arabic": "لَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِٱللَّٰهِ",
+    "latin": "La hawla wa la quwwata illa billah",
+    "translation": "Tiada daya dan upaya kecuali dengan kekuatan Allah"
+  },
+  {
+    "id": 7,
+    "arabic": "سُبْحَانَ ٱللَّٰهِ وَبِحَمْدِهِ",
+    "latin": "Subhanallahi wa bihamdihi",
+    "translation": "Maha Suci Allah dengan segala puji bagi-Nya"
+  },
+  {
+    "id": 8,
+    "arabic": "سُبْحَانَ ٱللَّٰهِ الْعَظِيمِ",
+    "latin": "Subhanallahi al-‘Azim",
+    "translation": "Maha Suci Allah yang Maha Agung"
+  },
+  {
+    "id": 9,
+    "arabic": "اللَّهُمَّ صَلِّ عَلَىٰ مُحَمَّدٍ",
+    "latin": "Allahumma salli ‘ala Muhammad",
+    "translation": "Ya Allah, limpahkan selawat ke atas Nabi Muhammad"
+  },
+  {
+    "id": 10,
+    "arabic": "رَضِيتُ بِاللَّهِ رَبًّا",
+    "latin": "Radītu billāhi rabbā",
+    "translation": "Aku redha Allah sebagai Tuhanku"
+  },
+  {
+    "id": 11,
+    "arabic": "يَا حَيُّ يَا قَيُّومُ",
+    "latin": "Ya Hayyu Ya Qayyum",
+    "translation": "Wahai Yang Maha Hidup lagi Maha Berdiri Sendiri"
+  },
+  {
+    "id": 12,
+    "arabic": "حَسْبُنَا ٱللَّهُ وَنِعْمَ ٱلْوَكِيلُ",
+    "latin": "Hasbunallahu wa ni’mal wakeel",
+    "translation": "Cukuplah Allah bagi kami dan Dialah sebaik-baik Pelindung"
+  },
+  {
+    "id": 13,
+    "arabic": "اللَّهُمَّ أَجِرْنِي مِنَ النَّارِ",
+    "latin": "Allahumma ajirni min an-naar",
+    "translation": "Ya Allah, lindungilah aku dari api neraka"
+  },
+  {
+    "id": 14,
+    "arabic": "اللَّهُمَّ اغْفِرْ لِي",
+    "latin": "Allahummaghfir li",
+    "translation": "Ya Allah, ampunilah aku"
+  }
+]
